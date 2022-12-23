@@ -134,7 +134,7 @@ https://github.com/uhooi/Loki/pull/89
 ### 技術記事投稿
 
 #### Qiita
-https://qiita.com/akatsuka_nogifa
+https://qiita.com/aki_artisan
 10記事 38Contributions
 
 #### Zenn
