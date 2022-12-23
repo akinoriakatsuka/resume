@@ -14,7 +14,6 @@
 <a href="https://github.com/akinoriakatsuka" target="_blank"><img alt="Github" src="https://img.shields.io/badge/akinoriakatsuka-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/aki_artisan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@aki_artisan-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://zenn.dev/aki_artisan" target="_blank"><img alt="zenn" src="https://img.shields.io/badge/@aki_artisan-%231DA1F2.svg?&style=flat-square&logo=zenn&logoColor=white" /></a>
-<a href="https://qiita.com/akatsuka_nogifa" target="_blank"><img alt="qiita" src="https://img.shields.io/badge/@akatsuka_nogifa-%255C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://qiita.com/aki_artisan" target="_blank"><img alt="qiita" src="https://img.shields.io/badge/@aki_artisan-%255C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 </p>
 
