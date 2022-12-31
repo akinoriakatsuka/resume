@@ -138,7 +138,7 @@ https://qiita.com/aki_artisan
 
 #### Zenn
 https://zenn.dev/aki_artisan
-2記事
+5記事
 
 ### 勉強会での登壇
 
