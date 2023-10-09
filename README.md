@@ -33,7 +33,7 @@
 
 ## 職務要約
 
-スタートアップでアプリケーションの企画・開発を2年ほど行ったのち、現職に転職しました。
+スタートアップでアプリケーションの新規開発を2年ほど行ったのち、現職に転職しました。
 現職では、医療機関向けの業務支援システムの開発・保守を担当しています。直近は主に、リファクタリングプロジェクトで実装を担当しております。
 
 ## 職務経歴
@@ -139,14 +139,14 @@
 
 #### docs.docker.jp
 簡単な修正を行いました。
-https://github.com/zembutsu/docs.docker.jp/pull/448
+[https://github.com/zembutsu/docs.docker.jp/pull/448](https://github.com/zembutsu/docs.docker.jp/pull/448)
 
 ### 技術記事投稿
 
 #### Qiita
-https://qiita.com/aki_artisan
+[https://qiita.com/aki_artisan](https://qiita.com/aki_artisan)
 10記事 39Contributions
 
 #### Zenn
-https://zenn.dev/aki_artisan
+[https://zenn.dev/aki_artisan](https://zenn.dev/aki_artisan)
 15記事 20likes
