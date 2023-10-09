@@ -2,12 +2,24 @@
 
 ## 基本情報
 
-|key|value|
-|---|---|
-|氏名|赤塚啓紀（Akatsuka Akinori）|
-|生年月日|1998/03/05|
-|居住地|東京都|
-|最終学歴|東京工業大学物質理工学院修士課程修了|
+<table>
+  <tr>
+    <td>氏名</td>
+    <td>赤塚啓紀</td>
+  </tr>
+  <tr>
+    <td>生年月日</td>
+    <td>1998年3月5日</td>
+  </tr>
+  <tr>
+    <td>居住地</td>
+    <td>兵庫県神戸市</td>
+  </tr>
+  <tr>
+    <td>最終学歴</td>
+    <td>東京工業大学物質理工学院修士課程修了</td>
+  </tr>
+</table>
 
 ## 各種アカウント
 <p>
@@ -20,41 +32,36 @@
 ---
 
 ## 職務要約
-現職にはエンジニアインターンとして入社し、2021年4月からは取締役として、社内システムアプリの開発からWebサイトの構築までの業務全般に携わりました。取締役として社内全体を俯瞰していく中で、ビジネスサイドの知識も積極的に学び、領域に囚われずに業務を行ってきました。
 
+スタートアップでアプリケーションの企画・開発を2年ほど行ったのち、現職に転職しました。
+現職では、医療機関向けの業務支援システムの開発・保守を担当しています。直近は主に、リファクタリングプロジェクトで実装を担当しております。
 
-## 職務経歴詳細
+## 職務経歴
 
-### 株式会社Nogifa(2020/12~現在)
+### 株式会社オフショア(2023/4~現在)
 
-#### 受験生向けクラファンアプリ「きふきっぷ」の開発 (2022/4~2022/11)
-受験生向けのクラファンアプリを制作しました。
-Flutterでマルチプラットフォームに対応し、バックエンドにはFirebaseを採用しました。
+#### 診療予約システムの保守・改善 (2023/4~現在)
+サーバー監視やバグ修正、機能改善などを担当しています。
 
-##### 実績
-Google Play Console 審査通過 (現在は非公開)
-AppStore Connect 審査通過 (現在は非公開)
+#### 診療予約システムのリファクタリング開発 (2023/4~現在)
+診療予約システムのリファクタリングプロジェクトで実装を担当しています。
+
+#### 周辺サービスのリファクタリング開発 (2023/7~2023/10)
+予約システムの周辺サービスである、動画配信サービスのリファクタリングプロジェクトで実装をメイン担当として担当しました。
+
+### 株式会社Nogifa(2020/12~2023/3)
+
+#### 受験生向けクラファンアプリの開発 (2022/4~2022/11)
+受験生向けのクラウドファンディングアプリを制作しました。
+詳細設計・実装・テスト・リリースを担当しました。
 
 ##### 使用技術
 - Flutter
 - Firebase
 
-#### 塾内管理アプリ「Dokugaku」の開発 (2021/4~2022/8)
+#### 個別指導塾業務支援アプリの開発 (2021/4~2022/8)
 塾内で使う管理アプリを制作しました。
-
-##### 実装機能
-塾生向け
-- カリキュラム閲覧機能
-- 小テスト機能
-- Todo管理機能
-
-講師向け
-- カリキュラム登録機能
-- 進捗確認機能
-- 小テスト結果確認機能
-
-##### 実績
-総ダウンロード数113 (現在は非公開)
+設計・実装・テスト・リリース・保守を担当しました。
 
 ##### 使用技術
 - Swift
@@ -62,8 +69,9 @@ AppStore Connect 審査通過 (現在は非公開)
 
 #### ランディングページ制作 (2022/9~現在)
 学習塾集客のためのLPを制作しました。
-さまざまなリスティング広告キーワードに対して、最適化されたページを出力するために、クエリパラメータを用いた条件分岐をしました。また、ABテストなどを通して継続的な改善がしやすくなるよう、まとまりごとにコンポーネント化してページを作成しました。
-マーケティング担当と連携して、3週間サイクルで継続的な改善を行ないました。
+実装・テスト・リリース・保守を担当しました。
+
+さまざまなリスティング広告キーワードに対して、最適化されたページを出力するために、クエリパラメータを用いた条件分岐を実装しました。また、マーケティング担当と連携して、3週間サイクルで継続的な改善を行ないました。
 
 ##### 使用技術
 - PHP
@@ -72,76 +80,73 @@ AppStore Connect 審査通過 (現在は非公開)
 #### WordPressテーマ作成 (2022/8~2022/9)
 学習塾集客のためのブログのWordPressテーマを制作しました。
 
+##### 使用技術
+- PHP
+- WordPress
+
 --- 
 
 ## 保有スキル
 
-- SwiftでのiOSアプリ開発
 - LaravelでのWebアプリ開発
-- Flutterでのクロスプラットフォームアプリ開発
+- レガシーPHPからLaravelへのリプレイス
 - AWSを用いたサーバー環境の構築
+- SwiftでのiOSアプリ開発
+- Flutterでのクロスプラットフォームアプリ開発
 
 ## 技術スタック
 
 ### 言語
 <p>
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
 <p>
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
+  <img alt="RedHat" src="https://img.shields.io/badge/-RedHat-EE0000.svg?logo=red-hat&style=flat">
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 ## 資格
 
-|年|月|資格|
-|---|---|---|
-|2022|2|AWS Certified Cloud Practitioner|
-|2022|10|日商簿記検定3級|
+| 年   | 月  | 資格                             |
+| ---- | --- | -------------------------------- |
+| 2022 | 2   | AWS Certified Cloud Practitioner |
+| 2022 | 10  | 日商簿記検定3級                  |
+| 2023 | 4   | 基本情報技術者試験合格           |
 
 ---
 
+
 ## 業務外活動
 
-### 個人開発・貢献活動
-#### 1トン読書
-読書記録アプリをAppStoreにリリースしました。
+### 勉強会での登壇
 
+| 日付       | 内容 |
+| ---------- | ----------------- |
+| 2022/12/20 | [ Dynamic Island を使ってみる - Swift愛好会](https://docs.google.com/presentation/d/1P0x5YsXMuMsvAdo6E2IUGlcMAokrUtVb61CQuNJt6ts/edit#slide=id.p) |
+| 2023/7/22 | [LaravelのSessionについて調べてみた - 三宮dev](https://docs.google.com/presentation/d/1RZVyitetsCygz6OtY6VgOv_uwqMe_mteRoGphzYbNYM/edit#slide=id.p) |
 
-<a href="https://apps.apple.com/us/app/1%E3%83%88%E3%83%B3%E8%AA%AD%E6%9B%B8/id1572283357?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1623715200?h=f1749681305635fc4c80a3352129754f" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+### 貢献活動
 
-##### 実績
-ダウンロード数38
-
-##### 使用技術
-- Swift
-
-#### uhooi/Loki
-サウナ記録アプリにプルリクエストを送り、マージされました。
-
-https://github.com/uhooi/Loki/pull/89
+#### docs.docker.jp
+簡単な修正を行いました。
+https://github.com/zembutsu/docs.docker.jp/pull/448
 
 ### 技術記事投稿
 
 #### Qiita
 https://qiita.com/aki_artisan
-10記事 38Contributions
+10記事 39Contributions
 
 #### Zenn
 https://zenn.dev/aki_artisan
-5記事
-
-### 勉強会での登壇
-
-|日付|内容|
-|---|---|
-|2022/12/20|[ Dynamic Island を使ってみる - Swift愛好会](https://docs.google.com/presentation/d/1P0x5YsXMuMsvAdo6E2IUGlcMAokrUtVb61CQuNJt6ts/edit#slide=id.p)|
+15記事 20likes
