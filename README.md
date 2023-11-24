@@ -34,17 +34,18 @@
 ## 職務要約
 
 スタートアップでアプリケーションの新規開発を2年ほど行ったのち、現職に転職しました。
-現職では、医療機関向けの業務支援システムの開発・保守を担当しています。直近は主に、リファクタリングプロジェクトで実装を担当しております。
+現職では、医療機関向けの業務支援システムの開発・保守を担当しています。直近は主に、リファクタリングプロジェクトで品質管理、スケジュール管理を担当しております。
 
 ## 職務経歴
 
 ### 株式会社オフショア(2023/4~現在)
 
-#### 診療予約システムの保守・改善 (2023/4~現在)
-サーバー監視やバグ修正、機能改善などを担当しています。
-
 #### 診療予約システムのリファクタリング開発 (2023/4~現在)
 診療予約システムのリファクタリングプロジェクトで実装を担当しています。
+2023年11月より、品質管理リーダーとして、テスト工程の定義やスケジュール管理を担当しています。
+
+#### 診療予約システムの保守・改善 (2023/4~現在)
+サーバー監視やバグ修正、機能改善などを担当しています。
 
 #### 周辺サービスのリファクタリング開発 (2023/7~2023/10)
 予約システムの周辺サービスである、動画配信サービスのリファクタリングプロジェクトで実装をメイン担当として担当しました。
@@ -108,7 +109,7 @@
 ### フレームワーク・その他
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
-  <img alt="RedHat" src="https://img.shields.io/badge/-RedHat-EE0000.svg?logo=red-hat&style=flat">
+  <img alt="RedHat" src="https://img.shields.io/badge/-RedHat-EE0000.svg?logo=red-hat&style=flat-square">
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
@@ -117,11 +118,12 @@
 
 ## 資格
 
-| 年   | 月  | 資格                             |
-| ---- | --- | -------------------------------- |
-| 2022 | 2   | AWS Certified Cloud Practitioner |
-| 2022 | 10  | 日商簿記検定3級                  |
-| 2023 | 4   | 基本情報技術者試験合格           |
+| 年   | 月 | 資格                             |
+| ---- | -- | -------------------------------- |
+| 2022 | 2  | AWS Certified Cloud Practitioner |
+| 2022 | 10 | 日商簿記検定3級                  |
+| 2023 | 4  | 基本情報技術者試験合格           |
+| 2023 | 11 | LPIC-1                           |
 
 ---
 
@@ -134,8 +136,9 @@
 | ---------- | ----------------- |
 | 2022/12/20 | [ Dynamic Island を使ってみる - Swift愛好会](https://docs.google.com/presentation/d/1P0x5YsXMuMsvAdo6E2IUGlcMAokrUtVb61CQuNJt6ts/edit#slide=id.p) |
 | 2023/7/22 | [LaravelのSessionについて調べてみた - 三宮dev](https://docs.google.com/presentation/d/1RZVyitetsCygz6OtY6VgOv_uwqMe_mteRoGphzYbNYM/edit#slide=id.p) |
+| 2024/2/11（予定） | [なんで、ファイル名とクラス名を揃えるの？ 知っておきたいautoloadのはなし - PHPカンファレンス関西2024](https://fortee.jp/phpcon-kansai2024/proposal/06582204-df2a-4af5-b301-4d394e064b0f) |
 
-### 貢献活動
+### コントリビュート活動
 
 #### docs.docker.jp
 簡単な修正を行いました。
